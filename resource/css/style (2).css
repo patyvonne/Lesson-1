@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
+.logo{
+    height: 70px;
+    width: auto;
+    color:#4b2c27;
+}
+.header{
+    min-height: 100vh;
+    background-image: url('../img/background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.navtext{
+    color: #4b2c27;
+    font-weight:bold ;
+}
+.text{
+    color: #4b2c27;
+}
+
+.btn{
+    background-color: #f8c592;
+    color: #4b2c27;
+    font-weight: bold;
+}
+.aboutus {
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #f9d1a9;
+}
+
+.footer{
+    min-height: 3vh;
+    background-color: #f8c592;
+    color:#4b2c27;
+
+}
+
+
+.card1{
+    background-color:  #f8c592c4;
+}
+
+.bg-custom{
+    background-color: #f8c592;
+}
